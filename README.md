@@ -1,0 +1,1 @@
+Project extends https://github.com/ksachdeva/opencv-mtcnn to create a library that works on android as part of knowledge of incorporating native machine learning in Android
